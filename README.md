@@ -1,6 +1,6 @@
 # JSON Resume
 
-Tiimi: Iiro Niemi (HEROKU frontend), Pekka Korhonen (Tietokanta+REST-suunnittelu, suurin osa funktioista), Miikka Mononen (OAuth 2.0 implementointi)
+Tiimi: Iiro Niemi (HEROKU frontend), Pekka Korhonen (Tietokanta+REST-suunnittelu, suurin osa funktioista), Miikka Mononen (OAuth 2.0 implementointi, osa funktioista)
 
 ## Johdanto
 
